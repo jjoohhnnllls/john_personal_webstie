@@ -4697,3 +4697,13 @@ input, select, textarea {
     object-fit: cover; /* Ensures the image fits within the circle */
     border: 2px solid #ccc; /* Optional: Add a border */
 }
+
+/* Company Logo */
+
+.company-logo {
+    width: 150px;
+    height: auto;
+    object-fit: contain;
+    border-radius: 4px;
+    margin-left: 20px;
+}
